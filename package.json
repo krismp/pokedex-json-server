@@ -2,7 +2,7 @@
     "main": "server.js",
     "scripts": {
         "start": "node server.js",
-        "dev": "nodemon server.js"
+        "dev": "node server.js"
     },
     "dependencies": {
         "json-server": "^0.16.1"
