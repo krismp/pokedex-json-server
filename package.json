@@ -3,8 +3,8 @@
     "version": "0.0.1",
     "license": "ISC",
     "scripts": {
-        "start": "json-server --watch tmp/db.json",
-        "dev": "json-server --watch tmp/db.json",
+        "start": "node server.js",
+        "dev": "node server.js",
         "now:deploy": "now"
     },
     "dependencies": {
